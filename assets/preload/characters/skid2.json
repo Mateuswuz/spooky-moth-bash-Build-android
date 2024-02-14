@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				145,
-				0
+				100,
+				-16
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				57,
-				-29
+				-1,
+				-21
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-66,
-				34
+				109,
+				243
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				104,
-				1
+				-44,
+				56
 			],
 			"loop": false,
 			"fps": 24,
@@ -58,8 +58,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				142,
-				1
+				92,
+				51
 			],
 			"anim": "singLEFTMISS",
 			"fps": 24,
@@ -69,8 +69,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				61,
-				-50
+				0,
+				-10
 			],
 			"anim": "singDOWNMISS",
 			"fps": 24,
@@ -80,8 +80,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-60,
-				30
+				50,
+				110
 			],
 			"anim": "singUPMISS",
 			"fps": 24,
@@ -91,8 +91,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				90,
-				0
+				-40,
+				70
 			],
 			"anim": "singRIGHTMISS",
 			"fps": 24,
@@ -101,20 +101,20 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/pico",
+	"image": "characters/skid2",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "pico",
+	"healthicon": "face",
 	"flip_x": false,
 	"healthbar_colors": [
-		183,
-		216,
-		85
+		161,
+		161,
+		161
 	],
 	"camera_position": [
-		-20,
+		-300,
 		150
 	],
 	"sing_duration": 6.1,

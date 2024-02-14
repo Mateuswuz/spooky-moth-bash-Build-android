@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				145,
-				0
+				0,
+				-100
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				57,
-				-29
+				-111,
+				-91
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-66,
-				34
+				-110,
+				40
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,77 +46,33 @@
 		},
 		{
 			"offsets": [
-				104,
-				1
+				-34,
+				-54
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
 			"name": "right"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				142,
-				1
-			],
-			"anim": "singLEFTMISS",
-			"fps": 24,
-			"name": "missleft",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				61,
-				-50
-			],
-			"anim": "singDOWNMISS",
-			"fps": 24,
-			"name": "missdown",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-60,
-				30
-			],
-			"anim": "singUPMISS",
-			"fps": 24,
-			"name": "missup",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				90,
-				0
-			],
-			"anim": "singRIGHTMISS",
-			"fps": 24,
-			"name": "missright",
-			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/pico",
+	"image": "characters/happyfella",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "pico",
+	"healthicon": "fella",
 	"flip_x": false,
 	"healthbar_colors": [
-		183,
-		216,
-		85
+		124,
+		34,
+		34
 	],
 	"camera_position": [
-		-20,
-		150
+		240,
+		0
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 0.9
 }
